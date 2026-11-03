@@ -1,0 +1,8 @@
+Step 1: Install libraries
+
+pip install -r requirements.txt
+
+Step 2: Run Streamlit
+
+streamlit run app.py
+
